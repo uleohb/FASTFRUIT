@@ -27,4 +27,4 @@ C.
 O projeto foi desenvolvido por:
 
 - [Leonardo Henrique](https://github.com/uleohb).
-- [Thiago Gamarra Andrade](https://github.com/69Faker);
+- [Thiago Gamarra Andrade](https://github.com/69Faker).
